@@ -1,4 +1,4 @@
-# Ubisoft Rendering Programmer test
+# OpenGL Renderer
 
 ### Description
 The project was written using CMake 3.17 as the building tool, OpenGL 4.2 as the Graphics API, Microsoft Visual Studio 2019 as an IDE, and a C++17 standard.
